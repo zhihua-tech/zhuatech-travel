@@ -1,5 +1,7 @@
 # ZhuaTech Travel｜知华科技企业商旅管理系统
 
+[简体中文](README.md) | [English](README.en.md)
+
 > 从出差申请到行程、费用和结算全程受控。
 
 [![Java 21](https://img.shields.io/badge/Java-21-315a70)](backend/pom.xml) [![Vue 3](https://img.shields.io/badge/Vue-3-42b883)](frontend/package.json) [![MySQL 8](https://img.shields.io/badge/MySQL-8-4479a1)](compose.yaml) [![个人非商用](https://img.shields.io/badge/license-personal%20non--commercial-b47b3a)](LICENSE)
